@@ -1,0 +1,4 @@
+Hello, World!
+This is a simple text file demonstrating the classic greeting.
+- Assignment 2
+
